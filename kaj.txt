@@ -1,0 +1,7 @@
+Booking - far	Enquiry - malbub
+Food - sayal	client - gali
+Goods - Roich	Accounts - nul
+Employee - Waz 	Front - shobuj 
+Laundry - mosha	transport - maria
+
+Room Food Client Goods Billing Enquiry Employee Aud/Con Front Accounts Laundry transport

@@ -1,0 +1,10 @@
+Ali : client
+Rafia: transport
+Faru: booking
+Nul: Accounts
+Mal: Enquiry
+Sohel: Food
+Shobuj: Front
+Mushfiq: Laundry
+Waz: Employee
+Roich: Goods
